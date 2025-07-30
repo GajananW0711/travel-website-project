@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+    height: 100vh;
+}
+
+.header{
+    background-color: brown;
+    width: 95%;
+    height: 20px;
+}
